@@ -78,17 +78,6 @@ Buoy-based system detecting dangerous fair-weather coastal swell surges (*Kallak
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadeed2004-gif&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadeed2004-gif&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 **Open to Data Analyst, Software Engineer, and ML/Data Science roles — always happy to talk data, IoT, or WaveGuard.**
